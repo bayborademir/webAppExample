@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{0E00435F-59F3-4466-B4F0-3A0A55CCB014}|http">
+  <MonoDevelop.Ide.ItemProperties.ProjectYıgıt.WebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/bayborademir/Projects/ProjectYıgıt/ProjectYıgıt.WebApp/Pages/Index.cshtml.cs" relfile="ProjectYıgıt.WebApp/Pages/Index.cshtml.cs" line="27" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjectYıgıt.WebApp/Pages/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="ProjectYıgıt.WebApp/Pages/Shared/_Layout.cshtml" Line="18" Column="62" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjectYıgıt" expanded="True">
+            <Node name="ProjectYıgıt.WebApp" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

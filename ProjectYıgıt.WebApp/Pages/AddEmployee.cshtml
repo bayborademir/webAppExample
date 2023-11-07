@@ -1,0 +1,58 @@
+﻿@page
+@model AddEmployeeModel
+@{
+}
+<h1>Add New Employee</h1>
+<div>
+    <form method="post">
+        <div class="border p-3 mt-4">
+            <div class="row pb-2">
+                <h2 class="text-primary pl-3">Create Employee</h2>
+                <hr />
+            </div>
+
+            <div class="mb-3">
+                <label>Name Surname</label>
+            </div>
+
+            <div class="mb-3">
+                <input asp-for="NewEmployee.NameSurname" name="NameSurname"/>
+            </div>
+
+            <div class="mb-3">
+                <label>Age</label>
+            </div>
+
+            <div class="mb-3">
+                <input asp-for="NewEmployee.Age" name="Age"/>
+            </div>
+
+            <div class="mb-3">
+                <label>Gender</label>
+            </div>
+
+            <div class="mb-3">
+                <input asp-for="NewEmployee.Gender" name="Gender"/>
+            </div>
+
+            <div class="mb-3">
+                <label>Phone Number</label>
+            </div>
+
+            <div class="mb-3">
+                <input asp-for="NewEmployee.PhoneNumber" name="PhoneNumber"/>
+            </div>
+
+            <div class="mb-3">
+                <label>Email</label>
+            </div>
+
+            <div class="mb-3">
+                <input asp-for="NewEmployee.Email" name="Email"/>
+            </div>
+
+
+            <button type="submit" class="btn btn-primary" style="width:150px;">Create Employee</button>
+        </div>
+    </form>
+</div>
